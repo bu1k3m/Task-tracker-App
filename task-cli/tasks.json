@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "description": "Buy groceries",
+    "status": "in-progress",
+    "createdAt": "2026-09-16T22:35:43.695Z",
+    "updatedAt": "2026-09-16T22:43:05.886Z"
+  },
+  {
+    "id": 2,
+    "description": "Learn Node.js deeply",
+    "status": "done",
+    "createdAt": "2026-09-16T22:36:23.406Z",
+    "updatedAt": "2026-09-16T22:45:13.476Z"
+  }
+]

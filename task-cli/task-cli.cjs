@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 //helper functions
 const fs = require("fs");
 const path = require("path");
